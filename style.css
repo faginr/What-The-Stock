@@ -1,0 +1,11 @@
+img {
+	width: 92%;
+	cursor: crosshair;
+	margin: 1.66%;
+  -webkit-transition: width .25s, height .25s, -webkit-transform .25s;
+    transition: width .25s, height .25s, transform .25s;
+}
+
+img:hover {
+  width: 97%;
+  }
